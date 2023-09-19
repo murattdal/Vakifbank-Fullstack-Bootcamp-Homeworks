@@ -1,3 +1,3 @@
 # Patika.Dev-WepAPI-Homeworks
 
-Vakıfbank Fullstack Bootcamp için cohorts'da bulunan ödevler için kurulmuş repo
+Vakıfbank Fullstack Bootcamp için Cohorts'da bulunan ödevler için kurulmuştur
