@@ -1,3 +1,5 @@
+<h1 align="center">Ödev 2</h1> 
+
 # Ödev İçerik
 
 - İlk hafta geliştirdiğiniz api kullanılacaktır.
